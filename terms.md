@@ -14,7 +14,7 @@ When we say “Company”, “we”, “our”, or “us” in this document, we
 
 When we say “Services”, we mean any product created and maintained by Pool Party AM, Inc. That includes all versions of Pool Party, whether delivered within a web browser, mobile application, or another format.
 
-We may update these Terms of Service in the future. You can track all changes made since 2020 [on Github](https://github.com/poolpartybet/policies/commits/master). Typically these changes have been to clarify some of these terms by linking to an expanded related policy. Whenever we make a significant change to our policies, we will also announce them.
+We may update these Terms of Service in the future. You can track all changes made since 2020 [on GitHub](https://github.com/poolpartybet/policies/commits/master). Typically these changes have been to clarify some of these terms by linking to an expanded related policy. Whenever we make a significant change to our policies, we will also announce them.
 
 When you use our Services, now or in the future, you are agreeing to the latest Terms of Service. That's true for any of our existing and future products and all features that we add to our Services over time. There may be times where we do not exercise or enforce any right or provision of the Terms of Service; in doing so, we are not waiving that right or provision. **These terms do contain a limitation of our liability.**
 
@@ -22,7 +22,7 @@ If you violate of any of the terms, we may terminate your account. That's a broa
 
 ## Account Terms
 
-1. You are responsible for maintaining the security of your account and password. The Company cannot and will not be liable for any loss or damage from your failure to comply with this security obligation.
+1. You are responsible for maintaining the security of your account. The Company cannot and will not be liable for any loss or damage from your failure to comply with this security obligation.
 2. You are responsible for all content posted and activity that occurs under your account. That includes content posted by others who have access to your login credentials.
 3. You must be a human. Accounts registered by “bots” or other automated methods are not permitted.
 
@@ -35,10 +35,10 @@ If you violate of any of the terms, we may terminate your account. That's a broa
 
 ## Cancellation and Termination
 
-1. You are solely responsible for properly canceling your account. Within each of our Services, we provide a simple no-questions-asked cancellation link. An email or phone request to cancel your account is not automatically considered cancellation. If you need help cancelling your account, you can always [contact our team](mailto:team@poolparty.fun).
+1. You are solely responsible for properly canceling your account. <!-- Within each of our Services, we provide a simple no-questions-asked cancellation link. --> An email or phone request to cancel your account is not automatically considered cancellation. If you need help cancelling your account, you can always [contact our team](mailto:team@poolparty.fun).
 2. All of your content will be inaccessible from the Services immediately upon cancellation. Within 30 days, all content will be permanently deleted from active systems and logs. Within 60 days, all content will be permanently deleted from our backups. We cannot recover this information once it has been permanently deleted.
 3. If you cancel the Service before the end of your current contest, your cancellation will take effect immediately, and you will not be charged again. We do not automatically prorate unused time in the last billing cycle.
-4. We have the right to suspend or terminate your account and refuse any and all current or future use of our Services for any reason at any time. Suspension means you will not be able to access the account or any content in the account. Termination will furthermore result in the deletion of your account or your access to your account, and the forfeiture and relinquishment of all content in your account. We also reserve the right to refuse the use of the Services to anyone for any reason at any time. We have this clause because statistically speaking, out of the hundreds of thousands of accounts on our Services, there is at least one doing something nefarious. There are some things we staunchly stand against and this clause is how we exercise that stance.
+4. We have the right to suspend or terminate your account and refuse any and all current or future use of our Services for any reason at any time. Suspension means you will not be able to access the account or any content in the account. Termination will furthermore result in the deletion of your account or your access to your account, and the forfeiture and relinquishment of all content in your account. We also reserve the right to refuse the use of the Services to anyone for any reason at any time. <!-- We have this clause because statistically speaking, out of the hundreds of thousands of accounts on our Services, there is at least one doing something nefarious. --> There are some things we staunchly stand against and this clause is how we exercise that stance.
 5. Verbal, physical, written or other abuse (including threats of abuse or retribution) of Company employee or officer will result in immediate account termination.
 
 ## Modifications to the Service and Prices
@@ -52,11 +52,9 @@ If you violate of any of the terms, we may terminate your account. That's a broa
 2. We reserve the right to temporarily disable your account if your usage significantly exceeds the average usage of other customers of the Services. Of course, we'll reach out to the account owner before taking any action except in rare cases where the level of use may negatively impact the performance of the Service for other customers.
 3. We take many measures to protect and secure your data through backups, redundancies, and encryption. We enforce encryption for data transmission from the public Internet. There are some edge cases where we may send your data through our network unencrypted.
 4. When you use our Services, you entrust us with your data. We take that trust to heart. You agree that Pool Party may process your data as described in our Privacy Policy and for no other purpose. We as humans can access your data for the following reasons:
-
 - To help you with support requests you make. We'll ask for express consent before accessing your account.
 - To safeguard Pool Party. We'll look at logs and metadata as part of our work to ensure the security of your data and the Services as a whole. If necessary, we may also access accounts as part of an abuse report investigation.
 - To the extent required by applicable law.
-
 5. We use third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run the Services.
 
 ## Copyright and Content Ownership

@@ -6,7 +6,7 @@ slug: /privacy
 
 # Privacy policy
 
-_Last updated: April 16, 2020_
+_Last updated: February 14, 2021_
 
 The privacy of your data — and it is your data, not ours! — is a big deal to us. In this policy, we lay out: what data we collect and why; how your data is handled; and your rights to your data. We promise we never sell your data: never have, never will.
 
@@ -73,7 +73,7 @@ At Pool Party, we apply the same data rights to all customers, regardless of the
 - **Right to not be subject to Automated Decision-Making.** You have the right to object and prevent any decision that could have a legal, or similarly significant, effect on you from being made solely based on automated processes. This right is limited, however, if the decision is necessary for performance of any contract between you and us, is allowed by applicable law, or is based on your explicit consent.
 - **Right to Non-Discrimination.** This right stems from the CCPA. We do and will not charge you a different amount to use our products, offer you different discounts, or give you a lower level of customer service because you have exercised your data privacy rights. However, the exercise of certain rights (such as the right “to be forgotten”) may, by virtue of your exercising those rights, prevent you from using our Services.
 
-Many of these rights can be exercised by signing in and directly updating your account information. If you have questions about exercising these rights or need assistance, please contact us at [legal@poolparty.fun](mailto:legal@poolparty.fun) or at Pool Party AM, Inc., 601 Sawyer Terrace #5453, Madison, WI 53705-6019, USA. To identify your specific authority to file a complaint or find out more about GDPR, EU individuals should go to [https://edpb.europa.eu/about-edpb/board/members_en](https://edpb.europa.eu/about-edpb/board/members_en).
+Many of these rights can be exercised by signing in and directly updating your account information. If you have questions about exercising these rights or need assistance, please contact us at [legal@poolparty.fun](mailto:legal@poolparty.fun) or at Pool Party AM, Inc., 9450 SW Gemini Dr, PMB 20494, Beaverton, OR 97008, USA. To identify your specific authority to file a complaint or find out more about GDPR, EU individuals should go to [https://edpb.europa.eu/about-edpb/board/members_en](https://edpb.europa.eu/about-edpb/board/members_en).
 
 ## How we secure your data
 
@@ -91,6 +91,6 @@ Our products and other web properties are operated in the United States. If you 
 
 ## Changes & questions
 
-We may update this policy as needed to comply with relevant regulations and reflect any new practices. You can see a history of the changes to our policies [on Github](https://github.com/poolpartybet/policies/commits/master). Whenever we make a significant change to our policies, we will also announce them.
+We may update this policy as needed to comply with relevant regulations and reflect any new practices. You can see a history of the changes to our policies [on GitHub](https://github.com/poolpartybet/policies/commits/master). Whenever we make a significant change to our policies, we will also announce them.
 
 Have any questions, comments, or concerns about this privacy policy, your data, or your rights with respect to your information? Please get in touch by emailing us at [legal@poolparty.fun](mailto:legal@poolparty.fun) and we’ll be happy to answer them!
